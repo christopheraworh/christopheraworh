@@ -1,6 +1,10 @@
+
+[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/06/full-stack-development.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Christopher Aworh</h1>
 <h3 align="center">A Full Stack Data Scientist |Data Engineer | Power BI Developer</h3>
 
+<img align = "right" alt = "Coding" width ="400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christopheraworh&label=Profile%20views&color=0e75b6&style=flat" alt="christopheraworh" /> </p>
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning and Power Bi**
